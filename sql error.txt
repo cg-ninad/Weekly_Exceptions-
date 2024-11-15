@@ -1,0 +1,89 @@
+if all querys  are giving empty df then flow is good
+
+
+revenue quuery
+counter = 2
+ICB query
+conter = 3
+BNL query---------df.empty
+conter = 4
+
+
+reveue query-----df.empty
+counter = 1
+ICB query 
+counter = 2
+BNL query
+counter = 3
+
+reveru query
+counter = 1
+coutner = 2
+ICB query -----df.emtpy
+counter = 3
+BNL query
+counter = 4
+
+reveneue query-----df.empty
+counter = 1
+ICB quer----df.mepty
+counter = 1
+bnl query----df.empty
+counter = 1
+-------------------------working
+
+
+reveneu query 
+counter = 1
+counter = 2
+icb query
+counter = 3
+bnl query
+counter = 4
+--------------------------working
+
+
+revenue queyry------- df.empty
+counter =1 
+icb qeury-------------df.emtpy
+counter = 1
+bnl qerury
+counter = 1
+counter = 2
+
+
+
+
+
+reveneu qeury
+counter = 1
+icb qeury------df.emtpy
+counter = 1
+conter = 2
+counter= 3 
+
+reveneu qeury
+counter =1 
+cointer = 2
+
+
+
+TNS name ---exad02vm1.corp.capgemini.com:1561
+username -- apps
+data source name-- EBSTRNS
+
+PS C:\Users\ninadkde> test-netconnection exad02vm1.corp.capgemini.com -port 1561
+WARNING: TCP connect to (10.247.241.102 : 1561) failed
+
+
+ComputerName           : exad02vm1.corp.capgemini.com
+RemoteAddress          : 10.247.241.102
+RemotePort             : 1561
+InterfaceAlias         : Ethernet0
+SourceAddress          : 10.24.219.96
+PingSucceeded          : True
+PingReplyDetails (RTT) : 2 ms
+TcpTestSucceeded       : False
+
+
+and a.CREATION_DATE <= to_date('25-October-2023','dd-mon-yyyy');': ('HY000', '[HY000] [Oracle][ODBC][Ora]ORA-00936: missing expression\n\x00?\x00\x06\x00\x00\x00\ue3e8??\x00\x07\x00\x00\x00\ue408??\x00\x08\x00\x00\x00\ue428??\x00\t\x00\x00\x00\ue448??\x00\n\x00\x00\x00\ue468??\x00\x0b\x00\x00\x00\ue488? (936) (SQLExecDirectW)')
